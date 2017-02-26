@@ -1,0 +1,28 @@
+Fichiers du projet:
+
+-Arbre.java
+-Bigramme.java
+-ComparateurValeur.java
+-Couple.java
+-JFrame.java
+-LectureTexte.java
+-ListeMots.java
+-MainMotSuivant.java (inutile au programme)
+-MiseEnPlaceArbre.java
+-Mot.java
+-Ngramme.java
+-Noeud.java
+-TestArbre.java
+-TestCompletion.java 
+-Tri.java
+-Triable.java
+-Trigramme.java 
+-corpusSMS.txt
+
+Mode d'emploi:
+
+- Executer le fichier JFrame.java
+- Une fenêtre avec un champ de texte s'affiche
+- Taper le début d'un mot, les 8 propositions de mot les plus cohérentes s'affichent
+- Taper un espace pour voir les propositions du mot suivant qui s'affichent
+
