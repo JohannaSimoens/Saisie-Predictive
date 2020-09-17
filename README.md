@@ -1,6 +1,6 @@
 # Saisie-Predictive
 
-Application de Saisie Predictive d'un texte avec interface graphique (à l'image d'un prédicteur de saisie de téléphone portable) dans le cadre d'un projet de L3 de Linguistique Informatique.
+Application de Saisie Predictive d'un texte en français avec interface graphique (à l'image d'un prédicteur de saisie de téléphone portable) dans le cadre d'un projet de L3 de Linguistique Informatique.
 Etant donné le début d'un texte tapé par l'utilisateur: 
 - si un mot est en cours d'écriture, des propositions de mots complets sont affichées et peuvent être selectionnées en cliquant dessus avec la souris
 - si un mot vient d'être entré et qu'un espace a été entré, des propositions de mots suivants sont affichées en fonction des mots précédents et des habitudes de l'utilisateur
